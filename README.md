@@ -66,7 +66,7 @@
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya!
 
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 
@@ -85,13 +85,10 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
 - Perubahan pada kode sudah saya coba mungkin ada beberapa yang menjadi eror karna saya kurang menambahkan beberapa kata sehingga hasil nya menjadi eror tapi setelah saya lakukan beberapa kali tidak ada eror atau kesalahan lagi
 
 # 2 
-- Tag  <p> di gunakan untuk kita dalam membuat paragraf teks atau untuk blok teks 
-- setiap kali kita menggunakan tag akan di mulai dengan garis baru memiliki garis atas dan bawah
+- Tag < p > di gunakan untuk kita dalam membuat paragraf teks atau untuk blok teks setiap kali kita menggunakan tag akan di mulai dengan garis baru memiliki garis atas dan bawah
 - dan juga secara otomatis memberikan margin atau jarak
 
-- Tag<br> digunakan untuk membuat pemisah baru dalam teks
-
-- ketika anda ingin menambah jarak antara dua elemen teks 
+- Tag < br > digunakan untuk membuat pemisah baru dalam teks ketika anda ingin menambah jarak antara dua elemen teks 
 - menambah spasi atas dan juga bawah secara default 
 
 # 3
@@ -106,10 +103,10 @@ Atribut alt digunakan untuk memberikan teks alternatif untuk gambar. Ini adalah 
 - Sebaiknya, dalam kebanyakan kasus, sangat disarankan untuk mengisi kedua atribut width dan height untuk mengontrol ukuran gambar dengan tepat dan menjaga proporsionalitasnya. Namun, jika Anda hanya ingin mengontrol satu dimensi dan membiarkan dimensi lainnya disesuaikan otomatis, Anda dapat mengisi salah satu atribut dan biarkan yang lainnya kosong atau tidak diisi
 
 # 5
-- Ketika Anda menggunakan target="_blank", tautan akan dibuka di jendela atau tab baru dalam peramban web.
+- target="_blank", tautan akan dibuka di jendela atau tab baru dalam peramban web.
 
 - target="_self" adalah nilai default dari atribut target. Ketika tautan memiliki target="_self", tautan akan dibuka di jendela atau tab yang sama di mana tautan tersebut berada.
 
-- Ketika Anda menggunakan target="_top", tautan akan membuka halaman baru di jendela atau tab yang paling atas dalam hierarki jendela peramban.
+- target="_top", tautan akan membuka halaman baru di jendela atau tab yang paling atas dalam hierarki jendela peramban.
 
 - target="_parent" digunakan ketika Anda memiliki bingkai (frames) dalam halaman web Anda. Tautan ini akan membuka halaman baru di bingkai atau jendela "induk" dari bingkai tempat tautan tersebut berada.
