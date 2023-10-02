@@ -26,12 +26,12 @@
 
 ![gambar1](WEB-GAMBAR/web6.png)
 
-- Kemudian saya mencoba untuk memformat teks seperti yang fi minta saya mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
+- Kemudian saya mencoba untuk memformat teks seperti yang di minta saya mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
 
 ![gambar1](WEB-GAMBAR/web16.png)
 
-- Dan hasil yang dibuat saya tampulkan seperti ini sesuai yang di minta yaitu mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
+- Dan hasil yang dibuat saya tampilkan seperti ini sesuai yang di minta yaitu mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
 ![gambar1](WEB-GAMBAR/web17.png)
 
@@ -44,7 +44,7 @@
 
 ![gambar1](WEB-GAMBAR/web10.png)
 
-- Kemudian menyesuaikan tambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
+- Kemudian menyesuaikan gambar dengan ukuran aslinya dengan cara mengatur width dan height sesuai dengan yang kita inginkan
 
 ![gambar1](WEB-GAMBAR/web11.png)
 
