@@ -29,11 +29,11 @@
 - Kemudian saya mencoba untuk memformat teks seperti yang fi minta saya mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
 
-![gambar1](WEB-GAMBAR/web7.png)
+![gambar1](WEB-GAMBAR/web16.png)
 
 - Dan hasil yang dibuat saya tampulkan seperti ini sesuai yang di minta yaitu mengubah warna menebalkan tulisan dan menambah garis bawah pada tulisan
 
-![gambar1](WEB-GAMBAR/web8.png)
+![gambar1](WEB-GAMBAR/web17.png)
 
 - Menyisipkan atau menambahkan gambar yang di inginkan pada halaman web kita yang telah di buat dengan menggunakan perintah seperti di bawah ini 
 
